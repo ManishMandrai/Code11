@@ -1,0 +1,5 @@
+@media (min-width : 1440px) {
+    .container, .container-lg, .container-md, .container-xl, .container-xxl{
+        max-width: 1170px;
+    }
+}
